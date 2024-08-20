@@ -1,5 +1,3 @@
-yaml
-
 name: CI/CD pipeline
 
 on: [push]
